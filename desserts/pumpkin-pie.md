@@ -12,14 +12,14 @@
 ## Ingredients
 
 - Pie shell
-- Nutmeg
-- Can of evaporated milk
-- 0.4 cup sugar
-- 0.5 tsp salt
+- 1 tsp nutmeg
+- Can of condensed milk
+- 0.5 cup sugar
+- 1 tsp salt
 - 2 tsp cinnamon
 - 1 tsp ginger, ground or juice
 - 0.5 tsp ground cloves
-- 2 eggs
+- 3 eggs
 
 
 ## Instructions
