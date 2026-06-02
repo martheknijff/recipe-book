@@ -1,6 +1,6 @@
-# Our CodeRefinery recipe book
+# The CodeRefinery recipe book
 
-We use this repository to teach Git and also to collect some nice recipes.
+We use this repository to teach Git and to collect some nice recipes as well.
 
 This exercise is created from https://github.com/coderefinery/recipe-book-template.
 If you wish to improve the exercise itself, please direct your pull requests
