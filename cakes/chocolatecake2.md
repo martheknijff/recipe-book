@@ -1,4 +1,4 @@
-# Chocolate Cake
+# Chocolate cake
 ## Ingredients
 - Chocolate
 - Cocoa Powder

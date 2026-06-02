@@ -1,4 +1,4 @@
-# Carrot Cake
+# Carrot cake
 ## Ingredients
 - Carrots
 - Flour
